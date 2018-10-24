@@ -1,0 +1,7 @@
+Prawn_Item, 60
+Khichuri, 70
+Prawn_Ball, 65
+Manchurian_Beef, 80
+Mandarian_Fish, 85
+Pabda_Fish, 90
+

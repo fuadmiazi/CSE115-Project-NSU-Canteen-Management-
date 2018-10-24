@@ -1,0 +1,9 @@
+Plain_Rice, 20
+Daal, 15
+Egg_Fry, 25
+Bhaji, 20 
+Chicken_one_piece, 35
+Beef, 40
+Khichuri, 50
+
+

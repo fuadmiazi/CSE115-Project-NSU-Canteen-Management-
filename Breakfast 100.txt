@@ -1,0 +1,20 @@
+Parata, 5
+Tea, 10
+Coffee, 20
+Vegetable_Roll, 15
+Egg_Roll, 20
+Coca_Cola, 20
+Chicken_Patties, 25
+Chicken_Sandwich, 25
+Beef_Patties, 30
+Chicken_Roll, 30
+Club_Sandwich, 35
+Chicken_Shaslik, 40
+Chicken_Burger, 40
+Beef_Burger, 45
+Shawarma, 50
+
+
+
+
+

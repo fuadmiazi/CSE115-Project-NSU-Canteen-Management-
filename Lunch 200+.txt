@@ -1,0 +1,7 @@
+Chicken_Polao, 120
+Chicken_Biriyani, 130
+Kachhi_Biriyani, 150
+Beef_Biriyani, 180
+Set_Menu_two_item, 200
+Set_Menu_three_item, 250
+

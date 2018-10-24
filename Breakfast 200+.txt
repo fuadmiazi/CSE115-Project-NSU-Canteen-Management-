@@ -1,0 +1,7 @@
+Pasta_Basta, 110
+White_Sauce_Pasta, 120
+Special_Pasta, 130
+Pizza_four_inch, 240
+Pizza_eight_inch, 360
+Pizza_twelve_inch, 550
+

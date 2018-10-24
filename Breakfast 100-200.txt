@@ -1,0 +1,13 @@
+Mixed_Vegetable, 55
+Chicken_Corn, 60
+Thai_Soup, 60
+Egg_Noodles, 65
+Chicken_Noodles, 70
+Paratha_beef, 80
+Pasta_vegetable, 85
+Chicken_large_burger, 85
+Mushroom_large_burger, 90
+Beef_large_burger, 95
+
+
+ 
